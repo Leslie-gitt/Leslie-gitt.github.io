@@ -52,40 +52,24 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Csharp, C Language, SQL, React.js, HTML, CSS, Javascript</mark> and <mark>Multi-Language(Korean, Mandarin and English)Translating & Writing</mark>.
 
 content:
-  - title: Personal Projects at Centennial # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Personal Web page completed in Web Interface Design
-        link: http://studentweb.cencol.ca/lcui18/
+        title: Super awesome project
+        link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            # icon: fab fa-github
+            icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
+        quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I completed several projects in my Web Interface Design(HTML&CSS) and Javascript courses at Centennial. 
-     - layout: top-middle
-        title: Application of JS function
-        link: http://studentweb.cencol.ca/lcui18/Assignment1/assignment1.html
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            # icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I completed several projects in my Web Interface Design(HTML&CSS) and Javascri
-
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
