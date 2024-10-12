@@ -56,23 +56,24 @@ content:
           Blending technology with real estate marketing to enhance customer experience and streamline property management processes.
         description: |
           Conduct comprehensive property research to <mark> craft compelling and market-savvy advertisements </mark> that captivate potential buyers; <mark> Design and produce visually stunning promotional materials <mark>, including posters and digital content, to elevate brand presence; Strategically manage social media platforms to enhance engagement and drive customer interest through targeted campaigns.
-  - layout: left
-    title: Vizon
-    link: www.vizongroup.com
-    sub_title: Full Stack Developer Intern
-    caption: Feb. 2024 - Present
-    quote: >
-      Contributed to the development of innovative software solutions to optimize client business processes and enhance user experience.
-    description: |
-      - React.js
-      - Material UI
-      - Node.js
-      - Python
-      - Numpy
-      - Pandas
-      - SQL
-      - NoSQL
-      - Figma
+
+      - layout: left
+        title: Vizon
+        link: www.vizongroup.com
+        sub_title: Full Stack Developer Intern
+        caption: Feb. 2024 - Present
+        quote: >
+          Contributed to the development of innovative software solutions to optimize client business processes and enhance user experience.
+        description: |
+          - React.js
+          - Material UI
+          - Node.js
+          - Python
+          - Numpy
+          - Pandas
+          - SQL
+          - NoSQL
+          - Figma
 
   - title: Education
     layout: list
