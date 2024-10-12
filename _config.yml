@@ -56,16 +56,23 @@ content:
           Blending technology with real estate marketing to enhance customer experience and streamline property management processes.
         description: |
           Conduct comprehensive property research to <mark> craft compelling and market-savvy advertisements </mark> that captivate potential buyers; <mark> Design and produce visually stunning promotional materials <mark>, including posters and digital content, to elevate brand presence; Strategically manage social media platforms to enhance engagement and drive customer interest through targeted campaigns.
-
-      - layout: left
-        title: Vizon
-        link: www.vizongroup.com
-        sub_title: Full Stack Developer Intern
-        caption: Feb. 2024 - Present
-        quote: >
-          Contributed to the development of innovative software solutions to optimize client business processes and enhance user experience.
-        description: |
-          Participated in <mark> designing the UI prototype of the AI study abroad system using Figma </mark>, which streamlined the development process and revised 3 versions of UI; Developed frontend pages as the main developer with <mark>React.js and Material UI library</mark>, resulting in a 25% increase in user engagement due to enhanced responsiveness; Collaborated and worked with the backend team to <mark>integrate more than 5 APIs using Node.js</mark>, leading to faster and more reliable system performance; Designed and implemented data scraping and data cleaning processes using <mark> Python, Numpy and Pandas</mark>, reducing data inconsistencies by around 30% and ensuring high-quality data for the AI system; Contributed to <mark> the design of a relational database</mark>, supporting scalable data storage for future system expansion to NoSQL database.
+  - layout: left
+    title: Vizon
+    link: www.vizongroup.com
+    sub_title: Full Stack Developer Intern
+    caption: Feb. 2024 - Present
+    quote: >
+      Contributed to the development of innovative software solutions to optimize client business processes and enhance user experience.
+    description: |
+      - React.js
+      - Material UI
+      - Node.js
+      - Python
+      - Numpy
+      - Pandas
+      - SQL
+      - NoSQL
+      - Figma
 
   - title: Education
     layout: list
